@@ -1,6 +1,6 @@
 # EgeFusion
 
-## Welcome to follow our further work: "[EgeFusion: Towards Edge Gradient Enhancement in Infrared and Visible Image Fusion With Multi-Scale Transform](https://ieeexplore.ieee.org/document/10449422)" 【[Paper](https://ieeexplore.ieee.org/document/10449422)】,【[Code](https://github.com/Haojie-Tang/EgeFusion)】.
+## Welcome to follow our work: "[EgeFusion: Towards Edge Gradient Enhancement in Infrared and Visible Image Fusion With Multi-Scale Transform](https://ieeexplore.ieee.org/document/10449422)" 【[Paper](https://ieeexplore.ieee.org/document/10449422)】,【[Code](https://github.com/Haojie-Tang/EgeFusion)】.
 ```
 @article{TANG2024EgeFusion,
   title={EgeFusion: Towards Edge Gradient Enhancement in Infrared and Visible Image Fusion With Multi-Scale Transform},

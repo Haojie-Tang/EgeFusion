@@ -8,7 +8,7 @@
   journal={IEEE Transactions on Computational Imaging},
   volume={10},
   pages={385-398},
-  year={2024},
+  year={2024}
 }
 ```
 
@@ -47,6 +47,6 @@ Object detection results on the MSRS and RoadScene datasets by using the YOLOv5 
   journal={IEEE Transactions on Computational Imaging},
   volume={10},
   pages={385-398},
-  year={2024},
+  year={2024}
 }
 ```
